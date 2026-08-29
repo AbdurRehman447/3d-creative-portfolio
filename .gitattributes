@@ -1,0 +1,2 @@
+# Store GLB files as standard Git binary files instead of Git LFS
+*.glb -filter -merge -diff
